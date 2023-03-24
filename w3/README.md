@@ -34,12 +34,12 @@
 #!/usr/bin/env bash
 echo "----------"
 echo "name :"
-echo "황준호"
+
 echo
 
 echo "----------"
 echo "student id :"
-echo "2022125070"
+
 
 file_path=`find /home/kau2/ -name w2_homework.txt 2> /dev/null`
 echo "----------"
